@@ -1,0 +1,4 @@
+theme: "hugo-profile"
+baseURL: http://abibler.com
+languageCode: en-us
+title: Adam Bibler dot com
